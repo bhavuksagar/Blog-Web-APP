@@ -4,5 +4,5 @@
 <h1>Blog Detail Page</h1>
 <img src="https://github.com/sahil8700/Blog-Web-APP/blob/master/Screenshot%202020-04-05%20at%207.15.46%20PM.png">
 <br>
-<h1>Add New Blog Page</h1>
+<h1>Update Blog</h1>
 <img src="https://github.com/sahil8700/Blog-Web-APP/blob/master/Screenshot%202020-04-05%20at%207.15.54%20PM.png">
